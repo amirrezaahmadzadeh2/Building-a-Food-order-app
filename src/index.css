@@ -251,6 +251,10 @@ h1 {
 
 .center {
   text-align: center;
+  font-size : 30px ;
+  font-family: sans-serif ;
+  color: #ffc404 ;
+  padding: 15px ;
 }
 
 .error {
